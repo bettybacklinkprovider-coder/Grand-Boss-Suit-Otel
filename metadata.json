@@ -1,0 +1,6 @@
+{
+  "name": "Grand Boss Suit Otel",
+  "description": "Experience Luxury. Discover Comfort at Grand Boss Suit Otel in Mersin, Türkiye. Premium suits, refined hospitality, and modern convenience in Akdeniz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
