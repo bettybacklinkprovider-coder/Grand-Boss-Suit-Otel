@@ -51,9 +51,9 @@ export default function HomePage() {
             className="w-full h-full object-cover object-center scale-105 animate-[pulse_10s_ease-in-out_infinite] duration-1000 motion-safe:transition-transform motion-safe:hover:scale-110"
             referrerPolicy="no-referrer"
           />
-          {/* Dark Burgundy-Red Overlay with gradient and subtle glow */}
-          <div className="absolute inset-0 bg-gradient-to-b from-[#09090B]/90 via-[#3B0715]/75 to-[#09090B]" />
-          <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(113,13,36,0.35)_0%,rgba(9,9,11,0.8)_85%)]" />
+          {/* Dark Burgundy-Red Overlay with balanced gradient for building visibility and text readability */}
+          <div className="absolute inset-0 bg-gradient-to-b from-[#09090B]/80 via-[#3B0715]/55 to-[#09090B]/95" />
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(113,13,36,0.25)_0%,rgba(9,9,11,0.75)_85%)]" />
         </div>
 
         {/* Hero Content with smooth fade-in */}

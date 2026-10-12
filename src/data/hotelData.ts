@@ -1,6 +1,6 @@
 import { RoomSuite, GalleryPhoto } from '../types';
 
-import imgFacade from '../assets/images/hero_grand_boss_facade_1791794497254.jpg';
+import imgFacade from '../assets/images/hero_facade_hotel_1791799905247.jpg';
 import imgDeluxeSuit from '../assets/images/room_deluxe_suit_1791794521128.jpg';
 import imgExecutiveSuit from '../assets/images/room_executive_suit_1791794534758.jpg';
 import imgLobby from '../assets/images/hotel_lobby_reception_1791794555212.jpg';
